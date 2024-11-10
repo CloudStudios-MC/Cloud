@@ -36,9 +36,3 @@ Cloud is an **open-source project**, and we’re always looking for help! Whethe
 - **Report Bugs**: If you encounter any issues or have suggestions for improvements, feel free to open an issue on GitHub.
 - **Help with Documentation**: Writing clear tutorials, guides, and code examples is essential for getting new developers up to speed.
 - **Share Cloud**: Let your friends and fellow Minecraft developers know about Cloud so we can grow the community!
-
-## How to Get Started
-
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/YourUsername/cloud-language.git
